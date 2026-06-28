@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Github, ExternalLink } from "lucide-react";
-import { projects } from "../data/projects";
+import { projects } from "C:\Users\Mou Ghosh\Desktop\coding\Anikrit-Ghosh\portfolio\data\projects.ts";
 
 export default function Projects() {
   return (
